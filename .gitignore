@@ -1,0 +1,5 @@
+back/
+.venv/
+*.csv
+*.txt
+front/node_modules/
